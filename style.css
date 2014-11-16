@@ -56,21 +56,21 @@ div.section {
 
 /* If we want the divs with ids plan and more to look the same, we can put them together */
 #plan, #more {
-	background:#000080;
-	color: white;
-	font: 'Source Sans Pro',Arial, Sans-Serif;
+	background:#C51E31;
+	color: #F3FCAA;
+	font: 'Times New Roman';
 	background-image: none;  /* replace none with url('image-url') to set a background image  */
 }
 
 /* You can alter the links within a div with the following syntax */
 #plan a {
-	color: #C41E3A;
+	color: #F3FCAA;
 }
 
 /* This alters the appearance of the div with id="signup". */
 #poem {
 	height: 110px;
-	background: white;
+	background: #FD5776;
 	text-align: center;
 }
 
